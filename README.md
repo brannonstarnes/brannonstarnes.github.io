@@ -1,4 +1,5 @@
-## Table of Contents
+# Code 201 Reading Notes
+### Table of Contents
 #### ***Daily Reading Assignments*** 📖
 - [Reading 1](#reading-1)
 - [Reading 2](#reading-2)

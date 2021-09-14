@@ -48,6 +48,7 @@ Use the 5 W's (Who, what, when, where, why) when thinking about how your audienc
 Using wireframes can be a powerful tool when organizing the design for your website. Check out [gomockingbird.com](https://gomockingbird.com/home)!
   
  ## Visual Hierarchy and Grouping
+ 
  Plan on users skimming your page for bits of information rather than reading top to bottom. Use visual hierarchy to convey info!
  -Size - big stuff seen first
  -Color - bright stuff seen first

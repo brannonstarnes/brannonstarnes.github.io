@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 ### Table of Contents
 #### ***Daily Reading Assignments*** 📖
-- [Reading 1](https://github.com/brannonstarnes/brannonstarnes.github.io/blob/main/class-01.md)
+- [Reading 1](brannonstarnes.github.io/reading-notes/class-01.md)
 - [Reading 2](#reading-2)
 - [Reading 3](#reading-3)
 - [Reading 4](#reading-4)

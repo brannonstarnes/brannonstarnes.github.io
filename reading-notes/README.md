@@ -7,7 +7,7 @@
 - [Reading 4](class-04.md)
 - [Reading 5](class-05.md)
 - [Reading 6](class-06.md)
-- [Reading 7](#reading-7)
+- [Reading 7](class-07.md)
 - [Reading 8](#reading-8)
 - [Reading 9](#reading-9)
 - [Reading 10](#reading-10)

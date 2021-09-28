@@ -11,7 +11,7 @@
 - [Reading 8](class-08.md)
 - [Reading 9](class-09.md)
 - [Reading 10](class-10.md)
-- [Reading 11](#reading-11)
+- [Reading 11](class-11.md)
 - [Reading 12](#reading-12)
 - [Reading 13](#reading-13)
 - [Reading 14](#reading-14)

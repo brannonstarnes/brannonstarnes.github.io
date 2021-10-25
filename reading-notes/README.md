@@ -1,6 +1,6 @@
 # Reading Notes
 
-## Code 201
+## Code 201 - ___Intro to Software Development___
 - [Reading 1](class-01.md)
 - [Reading 2](class-02.md)
 - [Reading 3](class-03.md)
@@ -17,8 +17,8 @@
 - [Reading 14](#reading-14)
 - [Reading 15](#reading-15)
  
- ## Code 301
+ ## Code 301 - ___Intermediate Software Development___
  
  
- ## Code 401
+ ## Code 401 - ___Advanced Software Development___
  

@@ -1,6 +1,5 @@
 # Reading Notes
 
-This serves as my personal repository for notes taken during Software Development courses at Code Fellows.
 ## Code 201
 - [Reading 1](class-01.md)
 - [Reading 2](class-02.md)

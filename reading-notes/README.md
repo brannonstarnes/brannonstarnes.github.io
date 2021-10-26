@@ -18,7 +18,7 @@
 - [Reading 15](#reading-15)
  
  ## Code 301 - ___Intermediate Software Development___
- 
+ - [Reading 1](301-class-01.md)
  
  ## Code 401 - ___Advanced Software Development___
  

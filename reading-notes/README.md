@@ -20,7 +20,8 @@
  ## Code 301 - ___Intermediate Software Development___
  - [Reading 2](301-class-02.md)
  - [Reading 3](301-class-03.md)
- - [Reading 4](301-class-04.md)  
+ - [Reading 4](301-class-04.md)
+ - [Reading 4](301-class-05.md)    
  
  ## Code 401 - ___Advanced Software Development___
  

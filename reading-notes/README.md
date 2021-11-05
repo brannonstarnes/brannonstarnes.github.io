@@ -24,7 +24,9 @@
  - [Reading 5](301-class-05.md) 
  - [Reading 6](#301-class-06.md)  
  - [Reading 7](301-class-07.md)
- - [Reading 8](301-class-08.md)   
+ - [Reading 8](301-class-08.md)
+ - [Reading 8](301-class-09.md)   
+ - [Reading 10](301-class-10.md)      
  
  ## Code 401 - ___Advanced Software Development___
  

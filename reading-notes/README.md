@@ -1,4 +1,4 @@
-# Reading Notes
+# Reading Notes 📓
 
 ## Code 201 - ___Intro to Software Development___
 - [Reading 1](class-01.md)
@@ -32,5 +32,5 @@
  - [Reading 13](301-class-13.md)        
  - [Reading 14](301-class-14.md)   
  
- ## Code 401 - ___Advanced Software Development___
+ ## Code 401 - ___Advanced Software Development in Python___ 🐍
  

@@ -35,4 +35,5 @@
  ## Code 401 - ___Advanced Software Development in Python___ 🐍
  - [The Growth Mindset](growth-mindset.md)
  - [Reading 1](401-class-01.md)
+ - [Reading 2](401-class-02.md)
  

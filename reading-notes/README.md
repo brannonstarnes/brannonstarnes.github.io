@@ -43,3 +43,4 @@
  - [Reading 7](401-class-07.md)
  - [Reading 8](401-class-08.md)
  - [Reading 9](401-class-09.md)
+ - [Reading 10](401-class-10.md)

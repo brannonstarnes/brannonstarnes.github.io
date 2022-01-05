@@ -52,4 +52,5 @@
  - [Reading 16](401-class-16.md)
  - [Reading 17](401-class-17.md)
  - [Reading 18](401-class-18.md)
- - [Reading 19](401-class-18.md)
+ - [Reading 19](401-class-19.md)
+ - [Reading 26](401-class-26.md)

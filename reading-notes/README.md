@@ -62,3 +62,4 @@
  - [Reading 35](401-class-35.md)
  - [Reading 37](401-class-37.md)
  - [Reading 38](401-class-38.md)
+ - [Reading 39](401-class-39.md)

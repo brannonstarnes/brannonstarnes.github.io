@@ -43,7 +43,7 @@ cust_ratings_standard_dev = numpy.std(customer_ratings)
 print(cust_ratings_standard_dev)
 ```
 
-## Fitting, Training, Decision Trees
+## Fitting, DataFrames, Models
 
 Fitting, or ___training___ data is a way to define decision-making based on certain values. For example, a house with two bedrooms may be predicted to sell 
 at $250,000 vs a three bedroom at $320,000. 
@@ -52,12 +52,24 @@ This may be modeled using a decision tree.
 
 The deeper the decision tree goes, the more accurate prediction can be made. 
 
-## The First Step, Get to Know Your Data
+### The First Step, Get to Know Your Data
 
 Using the Pandas Library is a great way to get to know your data. 
 
-## DataFrames
+### DataFrames
 
 Think of DFs like a spreadsheet or an SQL table. 
 
+### Steps to Building and Using a Model
 
+- Define - What type of model? Decision tree? Other? Params?
+  - ```from sklearn.tree import DecisionTreeRegressor```    
+  - ```your_model = DecisionTreeRegressor(random_state=1)
+- Fit - Capture the patterns from the data.
+  -  ```your_model.fit(X,y)```
+- Predict - State your hypothesis.
+  - ```predictions = your_model.predict(X)``` 
+- Evaluate - Determine accuracy of model's predictions.
+  - Mean Absolute Error
+    - ```from sklearn.metrics import mean_absolute_error```
+    - ``` mean_absolute_error(y, predictions)``` 

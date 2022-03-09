@@ -73,3 +73,8 @@ Think of DFs like a spreadsheet or an SQL table.
   - Mean Absolute Error
     - ```from sklearn.metrics import mean_absolute_error```
     - ``` mean_absolute_error(y, predictions)``` 
+  - train_test_split
+    - Since models need to be tested against new data, we can use some of the data as training data to fit the model and the rest will be used as validation data.
+    - ```from sklearn.model_selection import train_test_split```
+    - ```train_X, val_X, train_y, val_y = train_test_split(X,y,random_state=1)
+      
